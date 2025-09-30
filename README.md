@@ -1,7 +1,8 @@
 # FAHIMTA – Android
 
 ## 📥 Télécharger
-➡️ **[Dernière version (APK)](../../releases/latest)**
+➡ **[Dernière version (APK)](../../releases/latest/download/fahimta.apk)**
+
 
 ## 🧭 Installation rapide
 1. Télécharge l’APK puis ouvre-le.  
